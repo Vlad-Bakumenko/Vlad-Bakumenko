@@ -8,13 +8,13 @@ I'm Web Developer who's been diving into the world of coding for almost a year n
 
 <div style="display:flex; align-items:center; gap:1rem; height:10rem">React <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
-<div style="display:flex; align-items:center; gap:1rem; height:10rem">Vite <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" style="width: 2.5rem; vertical-align:bottom;"></div>
+<div style="display:flex; align-items:center; gap:1rem; height:10rem">Vite <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
-<div style="display:flex; align-items:center; gap:1rem; height:10rem">JavaScript <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 2.5rem; vertical-align:bottom;"></div>
+<div style="display:flex; align-items:center; gap:1rem; height:10rem">JavaScript <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
-<div style="display:flex; align-items:center; gap:1rem; height:10rem">HTML <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 2.5rem; vertical-align:bottom;"></div>
+<div style="display:flex; align-items:center; gap:1rem; height:10rem">HTML <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
-<div style="display:flex; align-items:center; gap:1rem; height:10rem">CSS <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 2.5rem; vertical-align:bottom;"></div>
+<div style="display:flex; align-items:center; gap:1rem; height:10rem">CSS <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
 <div style="display:flex; align-items:center; gap:1rem; height:10rem">SASS <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" style="width: 2.5rem; vertical-align:bottom;"></div>
 <br>
