@@ -27,6 +27,6 @@ I'm Web Developer who's been diving into the world of coding for almost a year n
 <br>
 <div>Node.js <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 50px; vertical-align:bottom;"></div>
 <br>
-<div>Express <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 50px; align-self: center;"></div>
+<div>Express <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 50px;" class="object-center"></div>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlad-Bakumenko&show_icons=true&locale=en&layout=compact" alt="Vlad-Bakumenko" /></p>
